@@ -28,11 +28,25 @@
 * Deploy
 * Monitor
 * Iterate
+  
+### Prioritisation
+
+- Pick risks that matter the most to you
+- Pick the most probable threat vectors
+- Pick the most easy to exploit vulnerabilities
 
 ![security program](/pics/security-program.png)
 
 <a name="risk-management"></a>
 ## Risk management
+
+### Risks and threats
+
+- **Risk**: potential for destruction, damage, or loss of data or assets, resulting from a cyber-threat.
+- **Threat**: what magnifies the chances of an loss event, like a threat actor exploiting a vulnerability inside your system.
+- **Vulnerability** is simply a weakness in your application, device or process that exposes your sensitive assets to threats.
+
+### RMF and FAIR
 
 * **[NIST RMF](csrc.nist.gov/projects/risk-management)** — Risk Management Framework
 * **[NIST RMF Small Enterprise Quick Start Guide](nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1314.pdf)**

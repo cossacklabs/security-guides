@@ -1,6 +1,10 @@
-**Disclaimer**  
+## Introduction 
 
-These guides are based on publicly available information and professional experience. They do not include proprietary information, trade secrets, or technical "know-hows."  
+These guides are short lists of concepts and links that we hand out at our private workshops and to our customers sometimes. They could have wider usability and applicability, that's why we chose to put them out publicly.
+
+**Disclaimer!**  
+
+These guides are based on publicly available information and professional experience. They do not include proprietary information, trade secrets, or unique technical "know-hows." More often than not, defensive security is about applying common knowledge efficiently, than access to esoteric techniques. Because [Kerckhoffs's principle](https://en.wikipedia.org/wiki/Kerckhoffs%27s_principle) has much wider applicability than cryptography.
 
 The recommendations provided are intended to offer general guidance and support informed decision-making. Please use the information responsibly!
 

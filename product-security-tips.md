@@ -38,7 +38,7 @@
 
 * [**OWASP WSTG**](https://github.com/OWASP/wstg): Web Security Testing Guide
 * [**OWASP ASVS**](https://github.com/OWASP/ASVS): Application Security Verification Standard
-* **Checklist**: [CIS Critical Security Controls](cisecurity.org/insights/white-papers/cis-critical-security-controls-v7-1-cloud-companion-guide) Cloud Companion Guide
+* **Checklist**: [CIS Critical Security Controls](https://www.cisecurity.org/insights/white-papers/cis-controls-v8-cloud-companion-guide) Cloud Companion Guide
 
 <a name="linux-hardening"></a>
 ## Linux Hardening / OS Hardening

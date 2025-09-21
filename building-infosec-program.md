@@ -48,9 +48,9 @@
 
 ### RMF and FAIR
 
-* **[NIST RMF](csrc.nist.gov/projects/risk-management)** — Risk Management Framework
-* **[NIST RMF Small Enterprise Quick Start Guide](nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1314.pdf)**
-* **[FAIR](www.fairinstitute.org/fair-risk-management)** Quantitative model for information security and operational risk
+* **[NIST RMF](https://csrc.nist.gov/projects/risk-management)** — Risk Management Framework
+* **[NIST RMF Small Enterprise Quick Start Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1314.pdf)**
+* **[FAIR](https://www.fairinstitute.org/fair-risk-management)** Quantitative model for information security and operational risk
 
 ![fair analysis](/pics/fair-analysis.png)
 
